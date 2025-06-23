@@ -1,0 +1,24 @@
+PS C:\Users\yaoji\source\repos\cmaketest\build> &"C:\Program Files\CMake\bin\cmake.EXE" ..                                                          
+-- Building for: Visual Studio 17 2022
+-- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.19045.
+-- The C compiler identification is MSVC 19.41.34123.0
+-- The CXX compiler identification is MSVC 19.41.34123.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64/cl.exe - skipped-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (3.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/yaoji/source/repos/cmaketest/build
+PS C:\Users\yaoji\source\repos\cmaketest\build> &"C:\Program Files\CMake\bin\cmake.EXE" --build c:/Users/yaoji/source/repos/cmaketest/build --config Release
+ÊÊÓÃÓÚ .NET Framework MSBuild °æ±¾ 17.11.9+a69bbaaf5
+
+  1>Checking Build System
+  Building Custom Rule C:/Users/yaoji/source/repos/cmaketest/CMakeLists.txt
+  main.cpp
+  helloworld.vcxproj -> C:\Users\yaoji\source\repos\cmaketest\build\Release\helloworld.exe
+  Building Custom Rule C:/Users/yaoji/source/repos/cmaketest/CMakeLists.txt
