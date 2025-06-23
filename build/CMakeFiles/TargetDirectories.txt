@@ -2,3 +2,5 @@ C:/Users/yaoji/source/repos/finalcmake/build/CMakeFiles/finalcmake.dir
 C:/Users/yaoji/source/repos/finalcmake/build/CMakeFiles/libhello.dir
 C:/Users/yaoji/source/repos/finalcmake/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/yaoji/source/repos/finalcmake/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/yaoji/source/repos/finalcmake/build/src/CMakeFiles/MyLib.dir
+C:/Users/yaoji/source/repos/finalcmake/build/src/CMakeFiles/MyExecutable.dir
